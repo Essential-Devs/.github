@@ -1,4 +1,4 @@
-Welcome to **Quited Devs** a collaborative group of developers working together on useful, clean and well-structured projects.  
+Welcome to **Quited Org** a collaborative group of developers working together on useful, clean and well-structured projects.  
 We are not a company; we are simply a community of people who enjoy building, improving, and maintaining open-source and private tools.
 
 ---
