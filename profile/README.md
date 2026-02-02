@@ -1,4 +1,4 @@
-Welcome to **Quited Org** a collaborative group of developers working together on useful, clean and well-structured projects.  
+Welcome to **Quiten** a collaborative group of developers working together on useful, clean and well-structured projects.  
 We are not a company; we are simply a community of people who enjoy building, improving, and maintaining open-source and private tools.
 
 ---
@@ -15,7 +15,7 @@ We are not a company; we are simply a community of people who enjoy building, im
 ## 🧑‍💻 Team Members  
 
 ### **Founder**
-- **fy2ne** — Founder of Quited Devs and the main coordinator of the organization.  
+- **fy2ne** — Founder of Quiten and the main coordinator of the organization.  
   Manages projects, organizes the workflow, and keeps the team moving forward.
 
 ### **Best Members**
@@ -40,10 +40,10 @@ We are not a company; we are simply a community of people who enjoy building, im
 ## 📊 GitHub Organization Stats
 
 ### Overview  
-<img src="https://github-readme-stats.vercel.app/api?username=Quited-devs&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Quiten-Techs&show_icons=true&hide_border=true" />
 
 ### Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quited-devs&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiten-Techs&layout=compact&hide_border=true" />
 
 ---
 
@@ -62,14 +62,6 @@ We organize our work using:
 - `/team` → Members and roles  
 - `/services` → Any tools or APIs we run  
 
----
-
-## 🌐 Useful Links
-- **Main Website:** quited.dev  
-- **Docs:** docs.quited.dev  
-- **Blog:** blog.quited.dev  
-- **Support:** quited.dev/support  
-- **Contact:** quited.dev/contact  
 
 ---
 
