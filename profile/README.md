@@ -1,11 +1,6 @@
-
-Your previous text here...
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:040c1a,40:071428,60:071428,100:040c1a&height=126&text=ESSENTIAL%20DEVS&fontColor=4f8ef7&fontSize=38&fontAlignY=44&desc=%E2%96%B8%20%20quiten%20research%20%26%20infrastructure%20labs&descSize=13&descAlignY=72&descColor=2d5fa8&animation=fadeIn&stroke=0d2a52&strokeWidth=1" width="100%" />
+  <img src="banner.svg" width="100%" />
 </div>
-
-Your following text here...
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&duration=3000&pause=1200&color=4F8EF7&center=true&vCenter=true&width=680&lines=infrastructure+research+division+%E2%80%94+quiten+labs;agentic+systems+%C2%B7+edge+primitives+%C2%B7+zero-trust+auth;we+build+the+floor+before+the+walls+exist;%5B+access%3A+clearance+required+%5D" />
